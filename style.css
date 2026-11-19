@@ -1,0 +1,30 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+}
+
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #ffffff;
+	color: rgb(0, 0, 0);
+	cursor: pointer;
+}
+
+table{
+	font-size: 1rem;
+	border-radius: 8px;
+	background: #030f53;
+{}	
+
+th, td {
+border: 1px solid black;
+border-radius: 8px;
+background: #0a22ac;
+}
